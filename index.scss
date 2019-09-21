@@ -2,7 +2,11 @@
   
 }
 
-* {
+body{
+
+  background-image: linear-gradient(left, red, rgb(255, 0, 0));
+  h1{
+    color: antiquewhite;
+  }
   
-  background-image: linear-gradient(left, aqua, rgb(27, 20, 121));
 }
